@@ -6,10 +6,10 @@ Since Paste in Chat is a Cherax Premium-only feature, ChatCompanion brings a lig
 
 ## Features: 
 | Instant clipboard auto-typing |
-| GTA V focused-only detection |
-| Fast and lightweight |
-| Modern premium UI |
-| F4 instant auto type support |  
+ GTA V focused-only detection |
+ Fast and lightweight |
+ Modern premium UI |
+ F4 instant auto type support |  
 
 ## How it works: 
 1. Copy translated text 
