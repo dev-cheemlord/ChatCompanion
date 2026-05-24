@@ -1,12 +1,15 @@
 # ChatCompanion
-Introducing ChatCompanion ChatCompanion brings a lightweight alternative for standard users.  
+Introducing ChatCompanion.
+
+Made for standard Cherax users who use the CheemsTranslator Lua script.
+Since Paste in Chat is a Cherax Premium-only feature, ChatCompanion brings a lightweight alternative for standard users.
 
 ## Features: 
-• Instant clipboard auto-typing 
-• GTA V focused-only detection 
-• Fast and lightweight
-• Modern premium UI 
-• F4 instant auto type support  
+| Instant clipboard auto-typing |
+| GTA V focused-only detection |
+| Fast and lightweight |
+| Modern premium UI |
+| F4 instant auto type support |  
 
 ## How it works: 
 1. Copy translated text 
