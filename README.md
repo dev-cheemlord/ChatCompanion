@@ -18,7 +18,7 @@ Since Paste in Chat is a Cherax Premium-only feature, ChatCompanion brings a lig
 4. auto types your copied message
 
 ## How to setup: 
-1. Download the ChatCompanion.zip from the latest release
+1. Download the ChatCompanion.zip from Releases *https://github.com/dev-cheemlord/ChatCompanion/releases/tag/v1.0*
 2. After download Extract All
 3. Open ChatCompanion.exe
 
