@@ -22,9 +22,8 @@ Since Paste in Chat is a Cherax Premium-only feature, ChatCompanion brings a lig
 1. Download **ChatCompanion.exe** from Releases:  
    *https://github.com/dev-cheemlord/ChatCompanion/releases*
 
-2. After downloading, click **Extract All**.
+2. After downloading, open **ChatCompanion.exe**.
 
-3. Open **ChatCompanion.exe**.
 
 4. If Windows SmartScreen appears:
    - Click **More info**
