@@ -17,19 +17,31 @@ Since Paste in Chat is a Cherax Premium-only feature, ChatCompanion brings a lig
 3. Press F4 Instantly 
 4. auto types your copied message
 
-## How to setup: 
-1. Download the **ChatCompanion.exe** from Releases: *https://github.com/dev-cheemlord/ChatCompanion/releases*
-2. After download Extract All
-3. Open ChatCompanion.exe
-4. When Windows displays the Administrator Permission (UAC) prompt, click Yes.
-   (Since GTA V typically run with Administrator privileges, ChatCompanion must also run as Administrator to detect the F4 hotkey and interact with the game correctly)
+## How to Setup
 
-*If Windows SmartScreen appears:*
-*- Click "More info"*
-*- Click "Run anyway"*
+1. Download **ChatCompanion.exe** from Releases:  
+   *https://github.com/dev-cheemlord/ChatCompanion/releases*
 
-4. Discord authentication page will open automatically
-5. Login with your Discord account 
-6. After successful verification return to GTA V
+2. After downloading, click **Extract All**.
 
-*From next launch it will auto-login*
+3. Open **ChatCompanion.exe**.
+
+4. If Windows SmartScreen appears:
+   - Click **More info**
+   - Click **Run anyway**
+
+5. When Windows displays the **Administrator Permission (UAC)** prompt, click **Yes**.
+
+   > **Why?** GTA V and Cherax typically run with Administrator privileges, so ChatCompanion must also run as Administrator to detect the F4 hotkey and interact with the game correctly.
+
+6. The Discord authentication page will open automatically.
+
+7. Log in with your Discord account.
+
+8. After successful verification, return to GTA V.
+
+9. Open the in-game chat and press **F4** to paste your copied translated message.
+
+> **Note:** Keep ChatCompanion running while playing GTA V.
+
+*From next launch onwards it will auto-login*
