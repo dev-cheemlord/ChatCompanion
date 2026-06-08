@@ -21,6 +21,8 @@ Since Paste in Chat is a Cherax Premium-only feature, ChatCompanion brings a lig
 1. Download the **ChatCompanion.exe** from Releases: *https://github.com/dev-cheemlord/ChatCompanion/releases*
 2. After download Extract All
 3. Open ChatCompanion.exe
+4. When Windows displays the Administrator Permission (UAC) prompt, click Yes.
+   (Since GTA V typically run with Administrator privileges, ChatCompanion must also run as Administrator to detect the F4 hotkey and interact with the game correctly)
 
 *If Windows SmartScreen appears:*
 *- Click "More info"*
